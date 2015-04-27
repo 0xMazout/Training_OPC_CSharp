@@ -1,0 +1,6 @@
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication2\TP_Calculs_en_Boucle\bin\Debug\TP_Calculs_en_Boucle.exe.config
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication2\TP_Calculs_en_Boucle\bin\Debug\TP_Calculs_en_Boucle.exe
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication2\TP_Calculs_en_Boucle\bin\Debug\TP_Calculs_en_Boucle.pdb
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication2\TP_Calculs_en_Boucle\obj\Debug\TP_Calculs_en_Boucle.exe
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication2\TP_Calculs_en_Boucle\obj\Debug\TP_Calculs_en_Boucle.pdb
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication2\TP_Calculs_en_Boucle\obj\Debug\TP_Calculs_en_Boucle.csprojResolveAssemblyReference.cache

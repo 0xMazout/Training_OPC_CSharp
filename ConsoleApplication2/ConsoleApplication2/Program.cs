@@ -54,7 +54,7 @@ namespace ConsoleApplication2
                 if (HeureCourrante.Hour > 9 && HeureCourrante.Hour < 18)
                 {
                         Console.WriteLine("Good Evening, Bonsoir, Bun nit" + UserName);
-                        exit;
+                        
                     if (WeekEndOrNot == "WeekEnd" || WeekEndOrNot == "Vendredi" || WeekEndOrNot == "Lundi")
                     {
                         Console.WriteLine("Good Week-End , Bon Week-End, Buenas Fin de Semana" + UserName);

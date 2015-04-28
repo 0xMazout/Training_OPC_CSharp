@@ -1,0 +1,1 @@
+C:\Users\lucas_fabre\Documents\GitHub\OPC_CSharp_C1_HelloWorld\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
